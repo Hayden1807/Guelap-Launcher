@@ -1,7 +1,7 @@
 {
     "name": "Guelap-Launcher",
     "preductname": "Guelap Launcher",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "description": "Launcher Minecraft",
     "main": "src/app.js",
     "author": {
